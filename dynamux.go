@@ -1,7 +1,6 @@
 package dynamux
 
 import (
-  "github.com/gorilla/mux"
   "net/http"
 )
 
